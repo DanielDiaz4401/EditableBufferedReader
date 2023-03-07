@@ -1,4 +1,3 @@
-import java.io.*;
 
 class TestReadLine {
   public static void main(String[] args) {
